@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  adults: 1
+  children: 1
+  infants: 1
+  description: MyText
+
+two:
+  adults: 1
+  children: 1
+  infants: 1
+  description: MyText
